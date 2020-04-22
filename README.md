@@ -1,2 +1,3 @@
-# drupal-entity-relationships
-Powerful entity relationships.
+# Drupal: Entity Relationships
+
+WIP
